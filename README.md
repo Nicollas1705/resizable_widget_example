@@ -15,4 +15,5 @@ An example using the [resizable_widget] plugin.
 [Original plugin](https://github.com/Nicollas1705/resizable_widget)
 
 
-![qr_code_batch-reading](https://github.com/user-attachments/assets/6c6b22d6-ced2-4aa7-ab55-57ce557f7b17)
+![batch_qr_codes-qrs-list](https://github.com/user-attachments/assets/56428eb9-d0e8-4d5d-bc64-d209e4c9747d)
+![batch_qr_codes-home](https://github.com/user-attachments/assets/e39485ab-b078-40d9-b7bc-08bbcfcebc68)
