@@ -13,3 +13,6 @@ An example using the [resizable_widget] plugin.
 ![Resizable widget example](https://user-images.githubusercontent.com/58062436/157943179-9942847e-3fa4-476a-9a47-e1ef8dacfe8a.gif)
 
 [Original plugin](https://github.com/Nicollas1705/resizable_widget)
+
+
+![qr_code_batch-reading](https://github.com/user-attachments/assets/6c6b22d6-ced2-4aa7-ab55-57ce557f7b17)
